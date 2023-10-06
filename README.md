@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Seham and I'm a FrontEnd Developer Reactjs from Egypt</h2>
 
   <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"  />
-  <img width="400" />
+  <img width="300" />
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
