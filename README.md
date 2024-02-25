@@ -11,10 +11,6 @@
 <h4 align="center">Seham's Visitors count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{sehamanter1}/count.svg" alt="sehamanter :: Visitor's Count" /></p>
 <br/>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 
 
 ## 🔥 Streak Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
