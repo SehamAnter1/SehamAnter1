@@ -1,24 +1,4 @@
--->
-<div align="center">
-  <a href=#>
-  <img src="Seham-Anter.gif" alt="Seham Anter" width="75%" >
-    </a>
-</div>
 
-<hr>
-
-```cpp
-// about.cpp
-#include <iostream>
-#include <interests.h>
-#include <skills.h>
-#include <tools.h>
-
-int main(){
-  for(auto info : me){
-    std::cout << info << '\n';
-  }
-}
 
 
 
