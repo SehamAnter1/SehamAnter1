@@ -1,3 +1,28 @@
+-->
+<div align="center">
+  <a href=#>
+  <img src="Seham-Anter.gif" alt="Seham Anter" width="75%" >
+    </a>
+</div>
+
+<hr>
+
+```cpp
+// about.cpp
+#include <iostream>
+#include <interests.h>
+#include <skills.h>
+#include <tools.h>
+
+int main(){
+  for(auto info : me){
+    std::cout << info << '\n';
+  }
+}
+
+
+
+
 <p align="center"><a href="https://github.com/sehamanter1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There!%2C+I'm+Seham+Anter%F0%9F%91%8B;I'm+a+Software+Developer;+Frontend+Reactjs" alt="Typing SVG" /></a></p>
 
 <div align="center">
