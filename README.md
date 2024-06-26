@@ -1,40 +1,30 @@
+  
 
+  <br>
 
-
-
-
-<p align="start"><a href="https://github.com/sehamanter1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&start=true&vstart=true&width=435&lines=Hi+There!%2C+I'm+Seham+Anter%F0%9F%91%8B;I'm+a+Software+Developer;+Frontend+Reactjs" alt="Typing SVG" /></a></p>
-
-<div align="start">
-
-  <img align="start" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-
-
-<h4 align="start">Seham's Visitors count 👀</h4>
-<p align="start"><img src="https://profile-counter.glitch.me/{sehamanter1}/count.svg" alt="sehamanter :: Visitor's Count" /></p>
-<br/>
-
-
-## 🔥 Streak Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-
-<p align="start">
-  <a href="https://github.com/sehamanter1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehamanter1&theme=radical#version3"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sehamanter1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<hr>
 
-<br/>
+
+
 
 ### ⚙️ &nbsp; GitHub Analytics
-
+<div align="start">
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=390 src="https://streak-stats.demolab.com/?user=sehamanter1&theme=react&hide_border=true" alt="sehamanter1" />
+    </a>
+<br>
+<br>
 <p align="start">
 <a href="https://github.com/sehamanter1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sehamanter1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sehamanter1&layout=compact&exclude_lang=java+r&theme=radical" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sehamanter1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="150em"   align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sehamanter1&layout=compact&exclude_lang=java+r&theme=react&hide_border=true" />
 </a>
 </p>
-
+</div>
 
 <div align="start">
 
