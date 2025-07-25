@@ -39,14 +39,6 @@
   </a>
 </p>
 
----
-
-### 👁‍🗨 Profile Visits
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sehamanter1&icon=3&color=6" />
-  </a>
-</p>
 
 ---
 
