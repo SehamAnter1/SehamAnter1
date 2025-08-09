@@ -4,6 +4,7 @@
  🧑‍💻 Software Developer (Reactjs - React Native & Django) | 🌐 Frontend Focused | 📈 Future Project Manager<br />
   I craft responsive, user-friendly interfaces and love turning ideas into scalable solutions.
  <br />
+ <br />
 </p>
 
 <br />
