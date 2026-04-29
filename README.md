@@ -42,6 +42,18 @@
 
 
 ---
+## ☕ Support Me
+
+If you like my work and want to support me:
+
+<p align="left">
+  <a href="https://ko-fi.com/sehamanter" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
+
+---
+
 
 <p align="center">
   🚀 Keep learning, keep building, and stay curious!
